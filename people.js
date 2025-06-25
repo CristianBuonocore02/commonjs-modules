@@ -14,6 +14,6 @@ function people() {
 
 const persona = people();
 console.log("Nome completo:", persona.fullName.firstName + " " + persona.fullName.lastName);
-console.log("Hobby:", persona.hobbies.join(", "));
+console.log("Hobby:", persona.hobbies);
 
 module.exports = people;
