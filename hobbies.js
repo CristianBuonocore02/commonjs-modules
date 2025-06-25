@@ -1,7 +1,5 @@
 function hobby(hobbyOne, hobbyTwo, hobbyThree) {
-    let hobbies = [hobbyOne, hobbyTwo, hobbyThree]
-    return hobbies
+    return [hobbyOne, hobbyTwo, hobbyThree]
 }
-
 
 module.exports = hobby

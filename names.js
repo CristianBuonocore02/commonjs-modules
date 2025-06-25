@@ -1,9 +1,8 @@
 function name(firstName, lastName) {
-    return names =
-    {
+    return {
         firstName: firstName,
         lastName: lastName
-    }
+    };
 }
 
 
